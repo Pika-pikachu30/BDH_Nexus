@@ -48,7 +48,7 @@ bdh-nexus/
 ├── LICENSE
 ├── BDH_Explainer/
 ├── BDH_Medical_Assistant/
-└── Game_of_life/
+└── game_of_life/
 ```
 
 ---
