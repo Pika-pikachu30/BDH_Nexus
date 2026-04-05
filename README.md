@@ -197,6 +197,20 @@ The installation instructions and hosted demo links for all three projects are i
 
 ---
 
+## Team & Contributions
+
+This suite was developed by the **BDH Research Group**.
+
+| Member | Contribution Area |
+|:---|:---|
+| **Aarsh Verma** | Website ideation, backend architecture and implementation |
+| **Anay Gupta** | Medical Assistant chatbot development and integration |
+| **Ajay Meena** | Game of Life analysis, core project ideation |
+| **Abhijit Shankar, Hadekar Ankit Kishor, Prince Kumar** | Frontend ideation, UI architecture planning |
+| **Manas Mistry, Gowtham Sai Reddy** | UI/UX design, user experience optimization |
+
+---
+
 
 ## References
 
